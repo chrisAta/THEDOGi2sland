@@ -1,0 +1,3 @@
+coco = 'cute'
+
+print(coco)
